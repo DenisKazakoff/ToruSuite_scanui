@@ -1,1 +1,1 @@
-# ToruSuite_scanui
+# ToruSuite scan module UI files
